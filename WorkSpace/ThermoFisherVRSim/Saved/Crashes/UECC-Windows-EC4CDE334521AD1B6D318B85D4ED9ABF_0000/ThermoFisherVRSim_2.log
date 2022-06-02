@@ -1,0 +1,1105 @@
+﻿Log file open, 06/02/22 08:52:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=1228)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ThermoFisherVRSim
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20280985"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.2-20280985+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/ThermoFisherVRSim.uproject -EpicPortal -epicusername=4chanTeller -epicuserid=11786537b29e4fbc950f9140b79a8718 -epiclocale=en -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H1) [10.0.19043.1706] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="4948de06404240a7bc8e5ab6f3016e25"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.291363
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-EC4CDE334521AD1B6D318B85D4ED9ABF
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin OpenXR
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OculusVR
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/OpenXR/Content/' mounted to '/OpenXR/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Oculus/OculusVR/Content/' mounted to '/OculusVR/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogHMD: Failed loading OVRPlugin 1.65.0
+LogInit: Build: ++UE5+Release-5.0-CL-20280985
+LogInit: Engine Version: 5.0.2-20280985+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H1) [10.0.19043.1706] (), CPU: 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz, GPU: NVIDIA GeForce RTX 3080 Ti
+LogInit: Compiled (64-bit): May 20 2022 15:42:17
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=4chanTeller -epicuserid=11786537b29e4fbc950f9140b79a8718 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: E:/epic games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.06.02-14.52.39:456][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.06.02-14.52.39:456][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:None]] deferred - dummy variable created
+[2022.06.02-14.52.39:456][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:None]] deferred - dummy variable created
+[2022.06.02-14.52.39:456][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.06.02-14.52.39:456][  0]LogConfig: CVar [[r.Mobile.AllowSoftwareOcclusion:0]] deferred - dummy variable created
+[2022.06.02-14.52.39:456][  0]LogConfig: CVar [[r.VT.EnableCompressZlib:1]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[r.VT.EnableCompressCrunch:0]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[r.DistanceFieldBuild.EightBit:0]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[r.GenerateLandscapeGIData:0]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[r.DistanceFieldBuild.Compress:0]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[TranslucentSortAxis:(X=0.000000,Y=-1.000000,Z=0.000000)]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[r.EyeAdaptation.EditorOnly:0]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[r.SSGI.Enable:0]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[bDefaultParticleCutouts:0]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[r.SupportAtmosphericFog:1]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[r.LightPropagationVolume:0]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[bStreamSkeletalMeshLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[bDiscardSkeletalMeshOptionalLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[VisualizeCalibrationCustomMaterialPath:None]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.06.02-14.52.39:457][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.06.02-14.52.39:457][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.06.02-14.52.39:457][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.06.02-14.52.39:458][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.06.02-14.52.39:458][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.06.02-14.52.39:458][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.06.02-14.52.39:458][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.06.02-14.52.39:458][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.06.02-14.52.39:458][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.06.02-14.52.39:458][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.06.02-14.52.39:458][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.06.02-14.52.39:458][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.06.02-14.52.39:458][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.06.02-14.52.39:458][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.06.02-14.52.39:464][  0]LogD3D12RHI: Aftermath initialized
+[2022.06.02-14.52.39:464][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.06.02-14.52.39:476][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2022.06.02-14.52.39:958][  0]LogHMD: Initialized OpenXR on SteamVR/OpenXR runtime version 0.1.0
+[2022.06.02-14.52.40:057][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3080 Ti (Max supported Feature Level 12_1, shader model 6.6)
+[2022.06.02-14.52.40:057][  0]LogD3D12RHI: Adapter has 12108MB of dedicated video memory, 0MB of dedicated system memory, and 16300MB of shared system memory, 1 output[s]
+[2022.06.02-14.52.40:061][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.06.02-14.52.40:061][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16300MB of shared system memory, 0 output[s]
+[2022.06.02-14.52.40:061][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.06.02-14.52.40:061][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.06.02-14.52.40:061][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.06.02-14.52.40:061][  0]LogHAL: Display: Platform has ~ 32 GB [34185474048 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.02-14.52.40:061][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.06.02-14.52.40:061][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.06.02-14.52.40:061][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.02-14.52.40:062][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.06.02-14.52.40:062][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Editor.ini]
+[2022.06.02-14.52.40:062][  0]LogInit: Computer: AIMEE-PC
+[2022.06.02-14.52.40:062][  0]LogInit: User: Aimul
+[2022.06.02-14.52.40:062][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.06.02-14.52.40:062][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.02-14.52.40:062][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2022.06.02-14.52.40:062][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.06.02-14.52.40:062][  0]LogMemory: Process Physical Memory: 287.93 MB used, 313.28 MB peak
+[2022.06.02-14.52.40:062][  0]LogMemory: Process Virtual Memory: 253.52 MB used, 253.52 MB peak
+[2022.06.02-14.52.40:062][  0]LogMemory: Physical Memory: 17486.30 MB used,  15115.51 MB free, 32601.81 MB total
+[2022.06.02-14.52.40:062][  0]LogMemory: Virtual Memory: 27825.90 MB used,  22183.91 MB free, 50009.81 MB total
+[2022.06.02-14.52.40:062][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.06.02-14.52.40:068][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.06.02-14.52.40:081][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.06.02-14.52.40:081][  0]LogInit: Using OS detected language (en-US).
+[2022.06.02-14.52.40:081][  0]LogInit: Using OS detected locale (en-US).
+[2022.06.02-14.52.40:083][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.06.02-14.52.40:193][  0]LogInit: Setting process to per monitor DPI aware
+[2022.06.02-14.52.40:202][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.06.02-14.52.40:202][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.06.02-14.52.40:202][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Touch Input Correction (TSF IME).
+[2022.06.02-14.52.40:202][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.06.02-14.52.40:204][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Engine.ini', retrying in .5s...
+[2022.06.02-14.52.40:706][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Engine.ini'.
+[2022.06.02-14.52.40:711][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.02-14.52.40:711][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.02-14.52.40:776][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.06.02-14.52.40:778][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.06.02-14.52.40:778][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.06.02-14.52.40:835][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.06.02-14.52.40:835][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.06.02-14.52.40:835][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.06.02-14.52.40:835][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.06.02-14.52.40:835][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.06.02-14.52.40:835][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.06.02-14.52.40:835][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.06.02-14.52.40:835][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.06.02-14.52.40:835][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.06.02-14.52.40:835][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.06.02-14.52.40:835][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.06.02-14.52.40:835][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.06.02-14.52.40:835][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.06.02-14.52.40:835][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.06.02-14.52.40:835][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.06.02-14.52.40:835][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.06.02-14.52.40:883][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.06.02-14.52.40:888][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.06.02-14.52.40:898][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.06.02-14.52.40:914][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.06.02-14.52.40:914][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.06.02-14.52.40:929][  0]LogD3D12RHI:     GPU DeviceId: 0x2208 (for the marketing name, search the web for "GPU Device Id")
+[2022.06.02-14.52.40:929][  0]LogWindows: Attached monitors:
+[2022.06.02-14.52.40:930][  0]LogWindows:     resolution: 3840x2160, work area: (0, 0) -> (3840, 2100), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.06.02-14.52.40:930][  0]LogWindows: Found 1 attached monitors.
+[2022.06.02-14.52.40:930][  0]LogWindows: EnumDisplayDevices:
+[2022.06.02-14.52.40:930][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3080 Ti' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.06.02-14.52.40:930][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3080 Ti' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.06.02-14.52.40:930][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3080 Ti' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.06.02-14.52.40:930][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3080 Ti' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.06.02-14.52.40:930][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.06.02-14.52.40:930][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3080 Ti
+[2022.06.02-14.52.40:930][  0]LogD3D12RHI:   Driver Version: 512.77 (internal:30.0.15.1277, unified:512.77)
+[2022.06.02-14.52.40:930][  0]LogD3D12RHI:      Driver Date: 5-4-2022
+[2022.06.02-14.52.40:930][  0]LogRHI: Texture pool is 7144 MB (70% of 10206 MB)
+[2022.06.02-14.52.40:930][  0]LogD3D12RHI: Async texture creation enabled
+[2022.06.02-14.52.40:930][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.06.02-14.52.40:938][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.06.02-14.52.40:941][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/ThermoFisherVRSim.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/TurnkeyReport_0.log" -log="E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/TurnkeyLog_0.log" -project="E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/ThermoFisherVRSim.uproject"  -platform=all'
+[2022.06.02-14.52.40:941][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/epic games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/ThermoFisherVRSim.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/TurnkeyReport_0.log" -log="E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/TurnkeyLog_0.log" -project="E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/ThermoFisherVRSim.uproject"  -platform=all" ]
+[2022.06.02-14.52.40:953][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.06.02-14.52.40:957][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.06.02-14.52.40:957][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.06.02-14.52.40:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.06.02-14.52.40:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.06.02-14.52.40:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.06.02-14.52.40:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.06.02-14.52.40:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.06.02-14.52.40:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.06.02-14.52.40:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.06.02-14.52.40:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.06.02-14.52.40:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.06.02-14.52.40:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.06.02-14.52.40:973][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.06.02-14.52.40:973][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.06.02-14.52.40:975][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.06.02-14.52.40:975][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.06.02-14.52.40:976][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.06.02-14.52.40:976][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.06.02-14.52.40:977][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.06.02-14.52.40:977][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.06.02-14.52.40:978][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.06.02-14.52.40:978][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.06.02-14.52.40:978][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.06.02-14.52.40:980][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.06.02-14.52.40:980][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.06.02-14.52.40:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.02-14.52.40:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.06.02-14.52.40:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.02-14.52.40:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.02-14.52.40:983][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.06.02-14.52.40:987][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.02-14.52.40:988][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.06.02-14.52.40:988][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.06.02-14.52.40:988][  0]LogTargetPlatformManager:   ADPCM
+[2022.06.02-14.52.40:988][  0]LogTargetPlatformManager:   PCM
+[2022.06.02-14.52.40:989][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.06.02-14.52.40:989][  0]LogTargetPlatformManager:   BINKA
+[2022.06.02-14.52.40:989][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.06.02-14.52.40:989][  0]LogTargetPlatformManager:   OGG
+[2022.06.02-14.52.40:989][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.06.02-14.52.40:989][  0]LogTargetPlatformManager:   OPUS
+[2022.06.02-14.52.41:012][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.06.02-14.52.41:015][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.06.02-14.52.41:015][  0]LogTargetPlatformManager:   SF_METAL
+[2022.06.02-14.52.41:015][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.06.02-14.52.41:015][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.06.02-14.52.41:015][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.06.02-14.52.41:015][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.06.02-14.52.41:015][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.06.02-14.52.41:015][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.06.02-14.52.41:015][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.06.02-14.52.41:015][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.06.02-14.52.41:015][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.06.02-14.52.41:015][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.06.02-14.52.41:015][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.06.02-14.52.41:015][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.06.02-14.52.41:015][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.06.02-14.52.41:015][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.06.02-14.52.41:017][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.06.02-14.52.41:017][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.06.02-14.52.41:017][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.06.02-14.52.41:017][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.06.02-14.52.41:017][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.06.02-14.52.41:017][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.06.02-14.52.41:017][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.06.02-14.52.41:017][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.06.02-14.52.41:017][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.06.02-14.52.41:017][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.06.02-14.52.41:017][  0]LogShaderCompilers: Display: Failed to rename shader autogen file: ../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.06.02-14.52.41:017][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.06.02-14.52.41:017][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.06.02-14.52.41:018][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.06.02-14.52.41:018][  0]LogShaderCompilers: Display: Failed to rename shader autogen file: ../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.06.02-14.52.41:018][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.06.02-14.52.41:020][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.02-14.52.41:020][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.06.02-14.52.41:020][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.02-14.52.41:020][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.06.02-14.52.41:033][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1096 MiB)
+[2022.06.02-14.52.41:033][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.02-14.52.41:033][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.06.02-14.52.41:037][  0]LogDerivedDataCache: Speed tests for C:/Users/Aimul/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2022.06.02-14.52.41:037][  0]LogDerivedDataCache: Display: Performance to C:/Users/Aimul/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=2331.21MBs, RandomWriteSpeed=306.09MBs. Assigned SpeedClass 'Local'
+[2022.06.02-14.52.41:037][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Aimul/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.02-14.52.41:038][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.02-14.52.41:038][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.06.02-14.52.41:042][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.06.02-14.52.41:042][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.06.02-14.52.41:042][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/Shaders/WorkingDirectory/15024/).
+[2022.06.02-14.52.41:042][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Aimul/AppData/Local/Temp/UnrealShaderWorkingDir/0AFE0D1942454BF16DD31AA72873D190/'.
+[2022.06.02-14.52.41:043][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.06.02-14.52.41:043][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.06.02-14.52.41:961][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.06.02-14.52.41:961][  0]LogSlate: Using FreeType 2.10.0
+[2022.06.02-14.52.41:961][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.02-14.52.41:986][  0]LogAssetRegistry: FAssetRegistry took 0.0078 seconds to start up
+[2022.06.02-14.52.41:988][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.06.02-14.52.42:139][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.06.02-14.52.42:139][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.06.02-14.52.42:267][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2022.06.02-14.52.42:267][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.06.02-14.52.42:267][  0]LogDeviceProfileManager: Active device profile: [000004FEBE1F6040][000004FEABF02800 50] WindowsEditor
+[2022.06.02-14.52.42:267][  0]LogDeviceProfileManager: Profiles: [000004FEBE1F5B00][000004FEABF05000 50] Windows, [000004FEBE1F6040][000004FEABF02800 50] WindowsEditor, [000004FEBE1F55C0][000004FEABEC7800 50] WindowsServer, [000004FEBE1F2300][000004FE9EA1A000 50] WindowsClient, [000004FEBE1F2840][000004FEABE3C800 50] IOS, [000004FEBE1F6200][000004FEBE480000 50] iPadAir2, [000004FEBE1F5940][000004FEBE487800 50] IPadPro, [000004FEBE1F2140][000004FEBE485000 50] iPadAir3, [000004FEBE1F3D40][000004FEBE48A000 50] iPadAir4, [000004FEBE1F6900][000004FEBE48C800 50] iPadMini4, [000004FEBE1F39C0][000004FEABF00000 50] iPadMini5, [000004FEBE1F63C0][000004FEBE4B0000 50] iPadMini6, [000004FEBE1F94C0][000004FEBE4BA000 50] iPhone6S, [000004FEBE1F9840][000004FEBE4B7800 50] iPhone7, [000004FEBE1F9BC0][000004FEBE4B5000 50] iPodTouch7, [000004FEBE1F7540][000004FEBE4BC800 50] iPhone6SPlus, [000004FEBE1F4B40][000004FEBE482800 50] iPhone7Plus, [000004FEBE1F47C0][000004FEBE510000 50] iPhoneSE, [000004FEBE1F7E00][000004FEBE515000 50] iPhone8, [000004FEBE1F24C0][000004FEBE517800 50] iPhone8Plus, [000004FEBE1F32C0][000004FEBE51A000 50] iPhoneX, [000004FEBE1F9A00][000004FEBE51C800 50] iPhoneXS, [000004FEBE1F4440][000004FEBE4B2800 50] iPhoneXSMax, [000004FEBE1F9680][000004FEBE520000 50] iPhoneXR, [000004FEBE1F6580][000004FEBE525000 50] iPhone11, [000004FEBE1F7FC0][000004FEBE527800 50] iPhone11Pro, [000004FEBE1F1880][000004FEBE52A000 50] iPhone11ProMax, [000004FEBE1F7700][000004FEBE52C800 50] iPhoneSE2, [000004FEBE1F6AC0][000004FEBE512800 50] iPhone12Mini, [000004FEBE1F86C0][000004FEBE530000 50] iPhone12, [000004FEBE1F3480][000004FEBE535000 50] iPhone12Pro, [000004FEBE1F8180][000004FEBE537800 50] iPhone12ProMax, [000004FEBE1F2BC0][000004FEBE53A000 50] iPhone13Mini, [000004FEBE1F8880][000004FEBE53C800 50] iPhone13, [000004FEBE1F4D00][000004FEBE522800 50] iPhone13Pro, [000004FEBE1F5240][000004FEBE4C0000 50] iPhone13ProMax, [000004FEBE1F78C0][000004FEBE4C5000 50] iPadPro105, [000004FEBE1F5E80][000004FEBE4C7800 50] iPadPro129, [000004FEBE1F8C00][000004FEBE4CA000 50] iPadPro97, [000004FEBE1F6E40][000004FEBE4CC800 50] iPadPro2_129, [000004FEBE1F7C40][000004FEBE532800 50] iPad5, [000004FEBE1F1500][000004FEBE4D0000 50] iPad6, [000004FEBE1F8F80][000004FEBE4D5000 50] iPad7, [000004FEBE1F16C0][000004FEBE4D7800 50] iPad8, [000004FEBE1F5400][000004FEBE4DA000 50] iPad9, [000004FEBE1F9300][000004FEBE4DC800 50] iPadPro11, [000004FEBE1F4EC0][000004FEBE4C2800 50] iPadPro2_11, [000004FEBE1F3B80][000004FEBE4F0000 50] iPadPro3_11, [000004FEBE1F5080][000004FEBE4F5000 50] iPadPro3_129, [000004FEBE1F2A00][000004FEBE4F7800 50] iPadPro4_129, [000004FEBE1F2F40][000004FEBE4FA000 50] iPadPro5_129, [000004FEBE1F40C0][000004FEBE4FC800 50] AppleTV, [000004FEBE1F8DC0][000004FEBE4D2800 50] AppleTV4K, [000004FEBE1F8500][000004FEBE550000 50] TVOS, [000004FEBE1FBB40][000004FEBE557800 50] Mac, [000004FEBE1FBEC0][000004FEBE555000 50] MacEditor, [000004FEBE1FB600][000004FEBE55A000 50] MacClient, [000004FEBE1F6C80][000004FEBE55C800 50] MacServer, [000004FEBE1FC080][000004FEBE590000 50] Linux, [000004FEBE1F9F40][000004FEBE592800 50] LinuxEditor, [000004FEBE1F4280][000004FEBE597800 50] LinuxArm64Editor, [000004FEBE1F3800][000004FEBE59A000 50] LinuxArm64, [000004FEBE1FAF00][000004FEBE59C800 50] LinuxClient, [000004FEBE1FAB80][000004FEBE4F2800 50] LinuxArm64Client, [000004FEBE1FCB00][000004FEBE595000 50] LinuxServer, [000004FEBE1FB980][000004FEBE560000 50] LinuxArm64Server, [000004FEBE1F0FC0][000004FEBE565000 50] Android, [000004FEBE1F5780][000004FEBE567800 50] Android_Preview_OpenGL, [000004FEBE1FB280][000004FEBE56A000 50] Android_Preview_Vulkan, [000004FEBE1FC400][000004FEBE56C800 50] Android_Low, [000004FEBE1F1F80][000004FEBE552800 50] Android_Mid, [000004FEBE1F3100][000004FEBE570000 50] Android_High, [000004FEBE1FA800][000004FEBE575000 50] Android_Default, [000004FEBE1FB440][000004FEBE577800 50] Android_Adreno4xx, [000004FEBE1FA480][000004FEBE57A000 50] Android_Adreno5xx_Low, [000004FEBE1FAD40][000004FEBE57C800 50] Android_Adreno5xx, [000004FEBE1F2680][000004FEBE562800 50] Android_Adreno6xx, [000004FEBE1F6740][000004FEBE580000 50] Android_Adreno6xx_Vulkan, [000004FEBE1F3F00][000004FEBE585000 50] Android_Adreno7xx, [000004FEBE1FA9C0][000004FEBE587800 50] Android_Adreno7xx_Vulkan, [000004FEBE1F8A40][000004FEBE58A000 50] Android_Mali_T6xx, [000004FEBE1F7000][000004FEBE58C800 50] Android_Mali_T7xx, [000004FEBE1F4980][000004FEBE572800 50] Android_Mali_T8xx, [000004FEBE1FA2C0][000004FEBE4E0000 50] Android_Mali_G71, [000004FEBE1F9D80][000004FEBE4E5000 50] Android_Mali_G72, [000004FEBE1FC240][000004FEBE4E7800 50] Android_Mali_G72_Vulkan, [000004FEBE1F8340][000004FEBE4EA000 50] Android_Mali_G76, [000004FEBE1FD040][000004FEBE4EC800 50] Android_Mali_G76_Vulkan, [000004FEBE1FD200][000004FEBE582800 50] Android_Mali_G77, [000004FEBE1F3640][000004FEBE5A0000 50] Android_Mali_G77_Vulkan, [000004FEBE1FB0C0][000004FEBE5A5000 50] Android_Mali_G78, [000004FEBE1FE000][000004FEBE5A7800 50] Android_Mali_G78_Vulkan, [000004FEBE1FD3C0][000004FEBE5AA000 50] Android_Mali_G710, [000004FEBE1FDAC0][000004FEBE5AC800 50] Android_Mali_G710_Vulkan, [000004FEBE1F4600][000004FEBE4E2800 50] Android_Xclipse_920, [000004FEBE1FA100][000004FEBE5B0000 50] Android_Xclipse_920_Vulkan, [000004FEBE1FE540][000004FEBE5B5000 50] Android_Vulkan_SM5, [000004FEBE1FDC80][000004FEBE5B7800 50] Android_PowerVR_G6xxx, [000004FEBE1FE1C0][000004FEBE5BA000 50] Android_PowerVR_GT7xxx, [000004FEBE1FC5C0][000004FEBE5BC800 50] Android_PowerVR_GE8xxx, [000004FEBE1FEC40][000004FEBE5A2800 50] Android_PowerVR_GM9xxx, [000004FEBE1FEFC0][000004FEBE5C0000 50] Android_PowerVR_GM9xxx_Vulkan, [000004FEBE1FEE00][000004FEBE5C5000 50] Android_TegraK1, [000004FEBE1F71C0][000004FEBE5C7800 50] Android_Unknown_Vulkan, [000004FEBE1FC940][000004FEBE5CA000 50] Oculus_Quest, [000004FEBE1F7380][000004FEBE5CC800 50] Oculus_Quest2, [000004FEBE1FFA40][000004FEBE5B2800 50] HoloLens, 
+[2022.06.02-14.52.42:267][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.06.02-14.52.42:270][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Valid, Installed=r21e, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="InstalledSdk_ValidVersionExists")
+[2022.06.02-14.52.42:270][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.06.02-14.52.42:270][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.06.02-14.52.42:270][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.06.02-14.52.42:270][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.06.02-14.52.42:282][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.06.02-14.52.42:397][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.02-14.52.42:397][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.06.02-14.52.42:397][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.02-14.52.42:397][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.06.02-14.52.42:397][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.06.02-14.52.42:406][  0]LogNetVersion: ThermoFisherVRSim 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2804505370)
+[2022.06.02-14.52.42:485][  0]LogSlate: Border
+[2022.06.02-14.52.42:485][  0]LogSlate: BreadcrumbButton
+[2022.06.02-14.52.42:485][  0]LogSlate: Default
+[2022.06.02-14.52.42:485][  0]LogSlate: Icons.Save
+[2022.06.02-14.52.42:485][  0]LogSlate: Icons.Toolbar.Settings
+[2022.06.02-14.52.42:485][  0]LogSlate: ListView
+[2022.06.02-14.52.42:485][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.06.02-14.52.42:485][  0]LogSlate: SoftwareCursor_Grab
+[2022.06.02-14.52.42:485][  0]LogSlate: TableView.DarkRow
+[2022.06.02-14.52.42:485][  0]LogSlate: TableView.Row
+[2022.06.02-14.52.42:485][  0]LogSlate: TreeView
+[2022.06.02-14.52.42:591][  0]SourceControl: Source control is disabled
+[2022.06.02-14.52.42:610][  0]SourceControl: Source control is disabled
+[2022.06.02-14.52.42:610][  0]SourceControl: Source control is disabled
+[2022.06.02-14.52.42:686][  0]LogFileManager: Error: Error deleting file '../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/CachedAssetRegistry.bin'.
+[2022.06.02-14.52.42:686][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.06.02-14.52.42:695][  0]LogUObjectArray: 20625 objects as part of root set at end of initial load.
+[2022.06.02-14.52.42:695][  0]LogUObjectAllocator: 5604128 out of 0 bytes used by permanent object pool.
+[2022.06.02-14.52.42:695][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.02-14.52.42:888][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 54B485534911CC220A51DBA29AFF1C35 | Instance: E9AC435543A8637FEDC190A5F117826A (AIMEE-PC-15024).
+[2022.06.02-14.52.42:923][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.02-14.52.42:926][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.02-14.52.42:953][  0]LogPython: Using Python 3.9.7
+[2022.06.02-14.52.53:454][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/Config/CoalescedSourceConfigs/Encryption.ini', retrying in .5s...
+[2022.06.02-14.52.53:955][  0]LogFileManager: Error: Error deleting file '../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/Config/CoalescedSourceConfigs/Encryption.ini'.
+[2022.06.02-14.52.53:955][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/Config/CoalescedSourceConfigs/Encryption.ini]
+[2022.06.02-14.52.53:956][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/Config/CoalescedSourceConfigs/Crypto.ini', retrying in .5s...
+[2022.06.02-14.52.54:457][  0]LogFileManager: Error: Error deleting file '../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/Config/CoalescedSourceConfigs/Crypto.ini'.
+[2022.06.02-14.52.54:457][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/Config/CoalescedSourceConfigs/Crypto.ini]
+[2022.06.02-14.52.54:591][  0]SourceControl: Source control is disabled
+[2022.06.02-14.52.54:622][  0]SourceControl: Source control is disabled
+[2022.06.02-14.52.54:628][  0]SourceControl: Source control is disabled
+[2022.06.02-14.52.54:632][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.02-14.52.54:645][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.02-14.52.54:645][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.02-14.52.54:651][  0]LogOpenImageDenoise: OIDN starting up
+[2022.06.02-14.52.54:668][  0]LogUProjectInfo: Found projects:
+[2022.06.02-14.52.54:745][  0]LogCollectionManager: Loaded 0 collections in 0.000450 seconds
+[2022.06.02-14.52.54:799][  0]LogFileCache: Scanning file cache for directory 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Collections/' took 0.00s
+[2022.06.02-14.52.54:799][  0]LogFileCache: Scanning file cache for directory 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Content/Developers/Aimul/Collections/' took 0.00s
+[2022.06.02-14.52.54:799][  0]LogFileCache: Scanning file cache for directory 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Content/Collections/' took 0.00s
+[2022.06.02-14.52.54:799][  0]LogOcInput: OculusInput pre-init called
+[2022.06.02-14.52.55:061][  0]LogEngine: Initializing Engine...
+[2022.06.02-14.52.55:507][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.06.02-14.52.55:723][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.02-14.52.55:723][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.02-14.52.55:730][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.02-14.52.55:747][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.02-14.52.55:747][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.06.02-14.52.55:760][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.06.02-14.52.55:761][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.06.02-14.52.55:761][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.06.02-14.52.55:761][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.06.02-14.52.55:761][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.06.02-14.52.55:761][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.02-14.52.55:761][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.02-14.52.55:761][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.02-14.52.55:762][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.02-14.52.55:762][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.06.02-14.52.55:762][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.02-14.52.55:762][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.06.02-14.52.55:762][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.02-14.52.55:762][  0]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.06.02-14.52.55:762][  0]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.06.02-14.52.55:762][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.02-14.52.55:767][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.02-14.52.55:789][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2022.06.02-14.52.55:790][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.02-14.52.55:792][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.02-14.52.55:792][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.02-14.52.55:793][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.06.02-14.52.55:793][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.06.02-14.52.55:795][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.06.02-14.52.55:795][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.06.02-14.52.55:795][  0]LogInit: FAudioDevice initialized.
+[2022.06.02-14.52.55:795][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.02-14.52.55:795][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.02-14.52.55:795][  0]LogInit: Texture streaming: Enabled
+[2022.06.02-14.52.55:817][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.2-20280985+++UE5+Release-5.0
+[2022.06.02-14.52.55:822][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.02-14.52.55:836][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.06.02-14.52.55:841][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.06.02-14.52.55:841][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.06.02-14.52.56:635][  0]LogLiveCoding: Display: First instance in process group "UE_ThermoFisherVRSim_0xcd6546be", spawning console
+[2022.06.02-14.52.56:635][  0]LogLiveCoding: Display: Waiting for server
+[2022.06.02-14.52.56:635][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.06.02-14.52.56:636][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Editor.ini', retrying in .5s...
+[2022.06.02-14.52.57:136][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Editor.ini'.
+[2022.06.02-14.52.57:137][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2022.06.02-14.52.57:638][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini'.
+[2022.06.02-14.52.57:650][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Compat.ini', retrying in .5s...
+[2022.06.02-14.52.58:151][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Compat.ini'.
+[2022.06.02-14.52.58:151][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Lightmass.ini', retrying in .5s...
+[2022.06.02-14.52.58:652][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Lightmass.ini'.
+[2022.06.02-14.52.58:652][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Paper2D.ini', retrying in .5s...
+[2022.06.02-14.52.59:153][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Paper2D.ini'.
+[2022.06.02-14.52.59:153][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/ControlRig.ini', retrying in .5s...
+[2022.06.02-14.52.59:654][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/ControlRig.ini'.
+[2022.06.02-14.52.59:654][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Niagara.ini', retrying in .5s...
+[2022.06.02-14.53.00:155][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Niagara.ini'.
+[2022.06.02-14.53.00:155][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/EditorScriptingUtilities.ini', retrying in .5s...
+[2022.06.02-14.53.00:655][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/EditorScriptingUtilities.ini'.
+[2022.06.02-14.53.00:655][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/FullBodyIK.ini', retrying in .5s...
+[2022.06.02-14.53.01:156][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/FullBodyIK.ini'.
+[2022.06.02-14.53.01:156][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/TraceDataFilters.ini', retrying in .5s...
+[2022.06.02-14.53.01:657][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/TraceDataFilters.ini'.
+[2022.06.02-14.53.01:657][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/VariantManagerContent.ini', retrying in .5s...
+[2022.06.02-14.53.02:158][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/VariantManagerContent.ini'.
+[2022.06.02-14.53.02:158][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Synthesis.ini', retrying in .5s...
+[2022.06.02-14.53.02:659][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Synthesis.ini'.
+[2022.06.02-14.53.02:659][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/HairStrands.ini', retrying in .5s...
+[2022.06.02-14.53.03:160][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/HairStrands.ini'.
+[2022.06.02-14.53.03:160][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/OculusVR.ini', retrying in .5s...
+[2022.06.02-14.53.03:660][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/OculusVR.ini'.
+[2022.06.02-14.53.03:662][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Engine.ini', retrying in .5s...
+[2022.06.02-14.53.04:163][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Engine.ini'.
+[2022.06.02-14.53.04:163][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Game.ini', retrying in .5s...
+[2022.06.02-14.53.04:665][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Game.ini'.
+[2022.06.02-14.53.04:665][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Input.ini', retrying in .5s...
+[2022.06.02-14.53.05:165][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Input.ini'.
+[2022.06.02-14.53.05:165][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/DeviceProfiles.ini', retrying in .5s...
+[2022.06.02-14.53.05:667][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/DeviceProfiles.ini'.
+[2022.06.02-14.53.05:688][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/GameUserSettings.ini', retrying in .5s...
+[2022.06.02-14.53.06:189][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/GameUserSettings.ini'.
+[2022.06.02-14.53.06:189][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Scalability.ini', retrying in .5s...
+[2022.06.02-14.53.06:690][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Scalability.ini'.
+[2022.06.02-14.53.06:690][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/RuntimeOptions.ini', retrying in .5s...
+[2022.06.02-14.53.07:191][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/RuntimeOptions.ini'.
+[2022.06.02-14.53.07:191][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Hardware.ini', retrying in .5s...
+[2022.06.02-14.53.07:692][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Hardware.ini'.
+[2022.06.02-14.53.07:693][  0]LogInit: Transaction tracking system initialized
+[2022.06.02-14.53.07:729][  0]BlueprintLog: New page: Editor Load
+[2022.06.02-14.53.07:816][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini', retrying in .5s...
+[2022.06.02-14.53.08:317][  0]LogFileManager: Error: Error deleting file '../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini'.
+[2022.06.02-14.53.08:317][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini]
+[2022.06.02-14.53.08:318][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini', retrying in .5s...
+[2022.06.02-14.53.08:819][  0]LogFileManager: Error: Error deleting file '../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini'.
+[2022.06.02-14.53.08:819][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini]
+[2022.06.02-14.53.08:819][  0]LocalizationService: Localization service is disabled
+[2022.06.02-14.53.08:841][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/Config/CoalescedSourceConfigs/UnrealInsightsSettings.ini', retrying in .5s...
+[2022.06.02-14.53.09:342][  0]LogFileManager: Error: Error deleting file '../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/Config/CoalescedSourceConfigs/UnrealInsightsSettings.ini'.
+[2022.06.02-14.53.09:342][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/Config/CoalescedSourceConfigs/UnrealInsightsSettings.ini]
+[2022.06.02-14.53.09:342][  0]TimingProfiler: Initialize
+[2022.06.02-14.53.09:342][  0]TimingProfiler: OnSessionChanged
+[2022.06.02-14.53.09:342][  0]LoadingProfiler: Initialize
+[2022.06.02-14.53.09:342][  0]LoadingProfiler: OnSessionChanged
+[2022.06.02-14.53.09:342][  0]NetworkingProfiler: Initialize
+[2022.06.02-14.53.09:342][  0]NetworkingProfiler: OnSessionChanged
+[2022.06.02-14.53.09:342][  0]MemoryProfiler: Initialize
+[2022.06.02-14.53.09:342][  0]MemoryProfiler: OnSessionChanged
+[2022.06.02-14.53.09:397][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Editor.ini', retrying in .5s...
+[2022.06.02-14.53.09:898][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Editor.ini'.
+[2022.06.02-14.53.09:899][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2022.06.02-14.53.10:400][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini'.
+[2022.06.02-14.53.10:400][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Compat.ini', retrying in .5s...
+[2022.06.02-14.53.10:902][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Compat.ini'.
+[2022.06.02-14.53.10:902][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Lightmass.ini', retrying in .5s...
+[2022.06.02-14.53.11:402][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Lightmass.ini'.
+[2022.06.02-14.53.11:402][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Paper2D.ini', retrying in .5s...
+[2022.06.02-14.53.11:903][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Paper2D.ini'.
+[2022.06.02-14.53.11:903][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/ControlRig.ini', retrying in .5s...
+[2022.06.02-14.53.12:405][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/ControlRig.ini'.
+[2022.06.02-14.53.12:405][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Niagara.ini', retrying in .5s...
+[2022.06.02-14.53.12:905][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Niagara.ini'.
+[2022.06.02-14.53.12:905][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/EditorScriptingUtilities.ini', retrying in .5s...
+[2022.06.02-14.53.13:406][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/EditorScriptingUtilities.ini'.
+[2022.06.02-14.53.13:406][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/FullBodyIK.ini', retrying in .5s...
+[2022.06.02-14.53.13:906][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/FullBodyIK.ini'.
+[2022.06.02-14.53.13:906][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/TraceDataFilters.ini', retrying in .5s...
+[2022.06.02-14.53.14:407][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/TraceDataFilters.ini'.
+[2022.06.02-14.53.14:407][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/VariantManagerContent.ini', retrying in .5s...
+[2022.06.02-14.53.14:908][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/VariantManagerContent.ini'.
+[2022.06.02-14.53.14:908][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Synthesis.ini', retrying in .5s...
+[2022.06.02-14.53.15:409][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Synthesis.ini'.
+[2022.06.02-14.53.15:409][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/HairStrands.ini', retrying in .5s...
+[2022.06.02-14.53.15:910][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/HairStrands.ini'.
+[2022.06.02-14.53.15:910][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/OculusVR.ini', retrying in .5s...
+[2022.06.02-14.53.16:412][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/OculusVR.ini'.
+[2022.06.02-14.53.16:412][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Engine.ini', retrying in .5s...
+[2022.06.02-14.53.16:913][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Engine.ini'.
+[2022.06.02-14.53.16:913][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Game.ini', retrying in .5s...
+[2022.06.02-14.53.17:414][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Game.ini'.
+[2022.06.02-14.53.17:414][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Input.ini', retrying in .5s...
+[2022.06.02-14.53.17:916][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Input.ini'.
+[2022.06.02-14.53.17:916][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/DeviceProfiles.ini', retrying in .5s...
+[2022.06.02-14.53.18:417][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/DeviceProfiles.ini'.
+[2022.06.02-14.53.18:417][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/GameUserSettings.ini', retrying in .5s...
+[2022.06.02-14.53.18:918][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/GameUserSettings.ini'.
+[2022.06.02-14.53.18:918][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Scalability.ini', retrying in .5s...
+[2022.06.02-14.53.19:419][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Scalability.ini'.
+[2022.06.02-14.53.19:419][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/RuntimeOptions.ini', retrying in .5s...
+[2022.06.02-14.53.19:920][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/RuntimeOptions.ini'.
+[2022.06.02-14.53.19:920][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Hardware.ini', retrying in .5s...
+[2022.06.02-14.53.20:421][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Hardware.ini'.
+[2022.06.02-14.53.20:450][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Editor.ini', retrying in .5s...
+[2022.06.02-14.53.20:951][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Editor.ini'.
+[2022.06.02-14.53.20:952][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2022.06.02-14.53.21:453][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini'.
+[2022.06.02-14.53.21:453][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Compat.ini', retrying in .5s...
+[2022.06.02-14.53.21:954][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Compat.ini'.
+[2022.06.02-14.53.21:954][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Lightmass.ini', retrying in .5s...
+[2022.06.02-14.53.22:455][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Lightmass.ini'.
+[2022.06.02-14.53.22:455][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Paper2D.ini', retrying in .5s...
+[2022.06.02-14.53.22:955][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Paper2D.ini'.
+[2022.06.02-14.53.22:955][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/ControlRig.ini', retrying in .5s...
+[2022.06.02-14.53.23:457][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/ControlRig.ini'.
+[2022.06.02-14.53.23:457][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Niagara.ini', retrying in .5s...
+[2022.06.02-14.53.23:957][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Niagara.ini'.
+[2022.06.02-14.53.23:957][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/EditorScriptingUtilities.ini', retrying in .5s...
+[2022.06.02-14.53.24:458][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/EditorScriptingUtilities.ini'.
+[2022.06.02-14.53.24:458][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/FullBodyIK.ini', retrying in .5s...
+[2022.06.02-14.53.24:959][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/FullBodyIK.ini'.
+[2022.06.02-14.53.24:959][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/TraceDataFilters.ini', retrying in .5s...
+[2022.06.02-14.53.25:460][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/TraceDataFilters.ini'.
+[2022.06.02-14.53.25:460][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/VariantManagerContent.ini', retrying in .5s...
+[2022.06.02-14.53.25:961][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/VariantManagerContent.ini'.
+[2022.06.02-14.53.25:961][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Synthesis.ini', retrying in .5s...
+[2022.06.02-14.53.26:462][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Synthesis.ini'.
+[2022.06.02-14.53.26:462][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/HairStrands.ini', retrying in .5s...
+[2022.06.02-14.53.26:963][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/HairStrands.ini'.
+[2022.06.02-14.53.26:963][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/OculusVR.ini', retrying in .5s...
+[2022.06.02-14.53.27:464][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/OculusVR.ini'.
+[2022.06.02-14.53.27:464][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Engine.ini', retrying in .5s...
+[2022.06.02-14.53.27:966][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Engine.ini'.
+[2022.06.02-14.53.27:966][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Game.ini', retrying in .5s...
+[2022.06.02-14.53.28:467][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Game.ini'.
+[2022.06.02-14.53.28:467][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Input.ini', retrying in .5s...
+[2022.06.02-14.53.28:968][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Input.ini'.
+[2022.06.02-14.53.28:968][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/DeviceProfiles.ini', retrying in .5s...
+[2022.06.02-14.53.29:469][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/DeviceProfiles.ini'.
+[2022.06.02-14.53.29:469][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/GameUserSettings.ini', retrying in .5s...
+[2022.06.02-14.53.29:970][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/GameUserSettings.ini'.
+[2022.06.02-14.53.29:970][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Scalability.ini', retrying in .5s...
+[2022.06.02-14.53.30:471][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Scalability.ini'.
+[2022.06.02-14.53.30:471][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/RuntimeOptions.ini', retrying in .5s...
+[2022.06.02-14.53.30:972][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/RuntimeOptions.ini'.
+[2022.06.02-14.53.30:972][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Hardware.ini', retrying in .5s...
+[2022.06.02-14.53.31:473][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Hardware.ini'.
+[2022.06.02-14.53.31:697][  0]LogFileCache: Scanning file cache for directory 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Content/' took 0.00s
+[2022.06.02-14.53.31:697][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.06.02-14.53.31:777][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.06.02-14.53.31:778][  0]SourceControl: Source control is disabled
+[2022.06.02-14.53.31:778][  0]LogUnrealEdMisc: Loading editor; pre map load, took 53.065
+[2022.06.02-14.53.31:778][  0]Cmd: MAP LOAD FILE="../../../../../thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Content/Maps/Testing_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.02-14.53.31:778][  0]LightingResults: New page: Lighting Build
+[2022.06.02-14.53.31:781][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.53.31:781][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.53.31:781][  0]MapCheck: New page: Map Check
+[2022.06.02-14.53.31:781][  0]LightingResults: New page: Lighting Build
+[2022.06.02-14.53.31:786][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.02-14.53.31:788][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.06.02-14.53.32:127][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame should be resaved to improve async compilation performance.
+[2022.06.02-14.53.32:381][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Testing_Map'.
+[2022.06.02-14.53.32:381][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.02-14.53.32:381][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.02-14.53.32:382][  0]LogAIModule: Creating AISystem for world Testing_Map
+[2022.06.02-14.53.32:396][  0]LogRenderer: Warning: Deprectaed CVar r.BasePassOutputsVelocity is set to 0. Remove and use r.VelocityOutputPass instead.
+[2022.06.02-14.53.32:396][  0]LogRenderer: Warning: Deprectaed CVar r.VertexDeformationOutputsVelocity is set to 0. Remove and use r.Velocity.EnableVertexDeformation instead.
+[2022.06.02-14.53.32:396][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.02-14.53.32:404][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.06.02-14.53.32:405][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.02-14.53.32:405][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2022.06.02-14.53.32:405][  0]LogFileHelpers: Loading map 'Testing_Map' took 0.627
+[2022.06.02-14.53.32:410][  0]LogUnrealEdMisc: Total Editor Startup Time, took 53.698
+[2022.06.02-14.53.32:410][  0]LogShaderCompilers: Display: ================================================
+[2022.06.02-14.53.32:410][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.02-14.53.32:410][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.06.02-14.53.32:410][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.06.02-14.53.32:410][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.06.02-14.53.32:410][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.06.02-14.53.32:410][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.06.02-14.53.32:410][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.06.02-14.53.32:410][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.06.02-14.53.32:410][  0]LogShaderCompilers: Display: ================================================
+[2022.06.02-14.53.32:509][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Editor.ini', retrying in .5s...
+[2022.06.02-14.53.33:011][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Editor.ini'.
+[2022.06.02-14.53.33:012][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2022.06.02-14.53.33:513][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini'.
+[2022.06.02-14.53.33:513][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Compat.ini', retrying in .5s...
+[2022.06.02-14.53.34:014][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Compat.ini'.
+[2022.06.02-14.53.34:014][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Lightmass.ini', retrying in .5s...
+[2022.06.02-14.53.34:515][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Lightmass.ini'.
+[2022.06.02-14.53.34:515][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Paper2D.ini', retrying in .5s...
+[2022.06.02-14.53.35:016][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Paper2D.ini'.
+[2022.06.02-14.53.35:016][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/ControlRig.ini', retrying in .5s...
+[2022.06.02-14.53.35:518][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/ControlRig.ini'.
+[2022.06.02-14.53.35:518][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Niagara.ini', retrying in .5s...
+[2022.06.02-14.53.36:019][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Niagara.ini'.
+[2022.06.02-14.53.36:019][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/EditorScriptingUtilities.ini', retrying in .5s...
+[2022.06.02-14.53.36:520][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/EditorScriptingUtilities.ini'.
+[2022.06.02-14.53.36:520][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/FullBodyIK.ini', retrying in .5s...
+[2022.06.02-14.53.37:021][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/FullBodyIK.ini'.
+[2022.06.02-14.53.37:021][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/TraceDataFilters.ini', retrying in .5s...
+[2022.06.02-14.53.37:522][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/TraceDataFilters.ini'.
+[2022.06.02-14.53.37:522][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/VariantManagerContent.ini', retrying in .5s...
+[2022.06.02-14.53.38:023][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/VariantManagerContent.ini'.
+[2022.06.02-14.53.38:023][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Synthesis.ini', retrying in .5s...
+[2022.06.02-14.53.38:523][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Synthesis.ini'.
+[2022.06.02-14.53.38:523][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/HairStrands.ini', retrying in .5s...
+[2022.06.02-14.53.39:024][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/HairStrands.ini'.
+[2022.06.02-14.53.39:024][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/OculusVR.ini', retrying in .5s...
+[2022.06.02-14.53.39:525][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/OculusVR.ini'.
+[2022.06.02-14.53.39:525][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Engine.ini', retrying in .5s...
+[2022.06.02-14.53.40:026][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Engine.ini'.
+[2022.06.02-14.53.40:026][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Game.ini', retrying in .5s...
+[2022.06.02-14.53.40:528][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Game.ini'.
+[2022.06.02-14.53.40:528][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Input.ini', retrying in .5s...
+[2022.06.02-14.53.41:029][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Input.ini'.
+[2022.06.02-14.53.41:029][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/DeviceProfiles.ini', retrying in .5s...
+[2022.06.02-14.53.41:530][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/DeviceProfiles.ini'.
+[2022.06.02-14.53.41:530][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/GameUserSettings.ini', retrying in .5s...
+[2022.06.02-14.53.42:031][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/GameUserSettings.ini'.
+[2022.06.02-14.53.42:031][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Scalability.ini', retrying in .5s...
+[2022.06.02-14.53.42:532][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Scalability.ini'.
+[2022.06.02-14.53.42:532][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/RuntimeOptions.ini', retrying in .5s...
+[2022.06.02-14.53.43:033][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/RuntimeOptions.ini'.
+[2022.06.02-14.53.43:033][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Hardware.ini', retrying in .5s...
+[2022.06.02-14.53.43:534][  0]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Hardware.ini'.
+[2022.06.02-14.53.43:543][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.02-14.53.43:547][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.02-14.53.43:551][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.02-14.53.43:555][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.02-14.53.43:579][  0]LogPakFile: Display: Mounted Pak file 'E:/epic games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.06.02-14.53.43:579][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.02-14.53.43:579][  0]LogPakFile: Display: Mounted Pak file 'E:/epic games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.06.02-14.53.43:580][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.02-14.53.43:580][  0]LogPakFile: Display: Mounted Pak file 'E:/epic games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.06.02-14.53.43:580][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.02-14.53.43:580][  0]LogPakFile: Display: Mounted Pak file 'E:/epic games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.06.02-14.53.43:580][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.02-14.53.43:581][  0]LogPakFile: Display: Mounted Pak file 'E:/epic games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.06.02-14.53.43:581][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.02-14.53.43:581][  0]LogPakFile: Display: Mounted Pak file 'E:/epic games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.06.02-14.53.43:581][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.02-14.53.43:581][  0]LogPakFile: Display: Mounted Pak file 'E:/epic games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.06.02-14.53.43:581][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.02-14.53.43:581][  0]LogPakFile: Display: Mounted Pak file 'E:/epic games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.06.02-14.53.43:582][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.02-14.53.43:582][  0]LogPakFile: Display: Mounted Pak file 'E:/epic games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.06.02-14.53.43:582][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.02-14.53.43:582][  0]LogPakFile: Display: Mounted Pak file 'E:/epic games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.06.02-14.53.43:582][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.02-14.53.43:652][  0]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.02-14.53.43:653][  0]LogSlate: Took 0.000097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.02-14.53.43:655][  0]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.06.02-14.53.43:655][  0]LogSlate: Took 0.000058 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.02-14.53.43:679][  0]LogViewport: Scene viewport resized to 2163x1893, mode Windowed.
+[2022.06.02-14.53.43:775][  0]LogStall: Startup...
+[2022.06.02-14.53.43:777][  0]LogProfilingDebugging: Allocated a 2163 x 1893 texture for HMD canvas layer
+[2022.06.02-14.53.43:777][  0]LogStall: Startup complete.
+[2022.06.02-14.53.43:795][  0]LogLoad: (Engine Initialization) Total time: 65.08 seconds
+[2022.06.02-14.53.43:795][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.02-14.53.43:828][  0]LogAssetRegistry: Asset discovery search completed in 61.8438 seconds
+[2022.06.02-14.53.43:836][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.06.02-14.53.43:859][  0]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.06.02-14.53.43:859][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.02-14.53.43:945][  1]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_TeleportTrace.NS_TeleportTrace took 11.644098 sec, no shader worker used.
+[2022.06.02-14.53.43:949][  1]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_MenuLaser.NS_MenuLaser took 11.629192 sec, no shader worker used.
+[2022.06.02-14.53.43:952][  1]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_PlayAreaBounds.NS_PlayAreaBounds took 11.612080 sec, no shader worker used.
+[2022.06.02-14.53.43:957][  1]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_TeleportRing.NS_TeleportRing took 11.600638 sec, no shader worker used.
+[2022.06.02-14.53.44:046][  2]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Testing_Map.
+[2022.06.02-14.53.44:818][ 75]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2022.06.02-14.53.45:319][ 75]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini'.
+[2022.06.02-14.53.47:699][321]LogTurnkeySupport: Display: Adding device menu item for AIMEE-PC
+[2022.06.02-14.53.47:699][321]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/ThermoFisherVRSim.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/TurnkeyReport_1.log" -log="E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/TurnkeyLog_1.log" -project="E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/ThermoFisherVRSim.uproject"  -Device=Win64@AIMEE-PC'
+[2022.06.02-14.53.47:699][321]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/epic games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/ThermoFisherVRSim.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/TurnkeyReport_1.log" -log="E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Intermediate/TurnkeyLog_1.log" -project="E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/ThermoFisherVRSim.uproject"  -Device=Win64@AIMEE-PC" -nocompile ]
+[2022.06.02-14.53.48:199][373]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.06.02-14.53.48:199][373]LogTurnkeySupport: Turnkey Device: Win64@AIMEE-PC: (Name=AIMEE-PC, Status=Valid, Installed=10.0.19043.0, MinAllowed=10.0.18362.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2022.06.02-14.53.48:967][446]LogTcpMessaging: Started Connection to '127.0.0.1:6666'
+[2022.06.02-14.53.49:663][523]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Editor.ini', retrying in .5s...
+[2022.06.02-14.53.50:164][523]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Editor.ini'.
+[2022.06.02-14.53.50:165][523]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2022.06.02-14.53.50:666][523]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini'.
+[2022.06.02-14.53.50:666][523]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Compat.ini', retrying in .5s...
+[2022.06.02-14.53.51:167][523]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Compat.ini'.
+[2022.06.02-14.53.51:167][523]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Lightmass.ini', retrying in .5s...
+[2022.06.02-14.53.51:668][523]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Lightmass.ini'.
+[2022.06.02-14.53.51:668][523]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Paper2D.ini', retrying in .5s...
+[2022.06.02-14.53.52:169][523]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Paper2D.ini'.
+[2022.06.02-14.53.52:169][523]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/ControlRig.ini', retrying in .5s...
+[2022.06.02-14.53.52:670][523]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/ControlRig.ini'.
+[2022.06.02-14.53.52:670][523]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Niagara.ini', retrying in .5s...
+[2022.06.02-14.53.53:171][523]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Niagara.ini'.
+[2022.06.02-14.53.53:171][523]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/EditorScriptingUtilities.ini', retrying in .5s...
+[2022.06.02-14.53.53:672][523]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/EditorScriptingUtilities.ini'.
+[2022.06.02-14.53.53:672][523]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/FullBodyIK.ini', retrying in .5s...
+[2022.06.02-14.53.54:173][523]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/FullBodyIK.ini'.
+[2022.06.02-14.53.54:173][523]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/TraceDataFilters.ini', retrying in .5s...
+[2022.06.02-14.53.54:673][523]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/TraceDataFilters.ini'.
+[2022.06.02-14.53.54:673][523]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/VariantManagerContent.ini', retrying in .5s...
+[2022.06.02-14.53.55:174][523]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/VariantManagerContent.ini'.
+[2022.06.02-14.53.55:174][523]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Synthesis.ini', retrying in .5s...
+[2022.06.02-14.53.55:675][523]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Synthesis.ini'.
+[2022.06.02-14.53.55:675][523]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/HairStrands.ini', retrying in .5s...
+[2022.06.02-14.53.56:176][523]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/HairStrands.ini'.
+[2022.06.02-14.53.56:176][523]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/OculusVR.ini', retrying in .5s...
+[2022.06.02-14.53.56:677][523]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/OculusVR.ini'.
+[2022.06.02-14.53.56:677][523]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Engine.ini', retrying in .5s...
+[2022.06.02-14.53.57:179][523]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Engine.ini'.
+[2022.06.02-14.53.57:179][523]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Game.ini', retrying in .5s...
+[2022.06.02-14.53.57:680][523]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Game.ini'.
+[2022.06.02-14.53.57:680][523]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Input.ini', retrying in .5s...
+[2022.06.02-14.53.58:181][523]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Input.ini'.
+[2022.06.02-14.53.58:181][523]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/DeviceProfiles.ini', retrying in .5s...
+[2022.06.02-14.53.58:682][523]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/DeviceProfiles.ini'.
+[2022.06.02-14.53.58:682][523]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/GameUserSettings.ini', retrying in .5s...
+[2022.06.02-14.53.59:184][523]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/GameUserSettings.ini'.
+[2022.06.02-14.53.59:184][523]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Scalability.ini', retrying in .5s...
+[2022.06.02-14.53.59:684][523]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Scalability.ini'.
+[2022.06.02-14.53.59:684][523]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/RuntimeOptions.ini', retrying in .5s...
+[2022.06.02-14.54.00:185][523]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/RuntimeOptions.ini'.
+[2022.06.02-14.54.00:185][523]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Hardware.ini', retrying in .5s...
+[2022.06.02-14.54.00:686][523]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Hardware.ini'.
+[2022.06.02-14.54.00:694][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.02-14.54.00:694][523]PIE: New page: PIE session: Testing_Map (Jun 2, 2022, 2:54:00 AM)
+[2022.06.02-14.54.00:697][523]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.06.02-14.54.00:697][523]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.06.02-14.54.00:697][523]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Map
+[2022.06.02-14.54.00:700][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003187s)
+[2022.06.02-14.54.00:700][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Map.Testing_Map to /Game/Maps/UEDPIE_0_Testing_Map.Testing_Map (0.003245s)
+[2022.06.02-14.54.00:700][523]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.02-14.54.00:700][523]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.02-14.54.00:701][523]LogAIModule: Creating AISystem for world Testing_Map
+[2022.06.02-14.54.00:701][523]LogPlayLevel: PIE: World Init took: (0.000556s)
+[2022.06.02-14.54.00:706][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.06.02-14.54.00:707][523]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.06.02-14.54.00:707][523]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.02-14.54.00:707][523]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.02-14.54.00:707][523]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.02-14.54.00:707][523]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.02-14.54.00:707][523]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.06.02-14.54.00:707][523]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.02-14.54.00:707][523]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.06.02-14.54.00:707][523]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.02-14.54.00:707][523]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.06.02-14.54.00:707][523]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.06.02-14.54.00:707][523]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.02-14.54.00:708][523]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.02-14.54.00:720][523]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2022.06.02-14.54.00:720][523]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.02-14.54.00:720][523]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.02-14.54.00:720][523]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.02-14.54.00:721][523]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.06.02-14.54.00:721][523]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.06.02-14.54.00:723][523]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.06.02-14.54.00:723][523]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.06.02-14.54.00:723][523]LogInit: FAudioDevice initialized.
+[2022.06.02-14.54.00:723][523]LogAudio: Display: Audio Device (ID: 2) registered with world 'Testing_Map'.
+[2022.06.02-14.54.00:733][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.02-14.54.00:753][523]LogLoad: Game class is 'VRGameMode_C'
+[2022.06.02-14.54.00:754][523]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Map.Testing_Map up for play (max tick rate 0) at 2022.06.02-08.54.00
+[2022.06.02-14.54.00:755][523]LogWorld: Bringing up level for play took: 0.001368
+[2022.06.02-14.54.00:756][523]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2022.06.02-14.54.00:757][523]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.06.02-14.54.00:769][523]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.06.02-14.54.00:770][523]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.06.02-14.54.00:771][523]Cmd: vr.PixelDensity 1.0
+[2022.06.02-14.54.00:771][523]vr.PixelDensity = "1"
+[2022.06.02-14.54.00:773][523]PIE: Server logged in
+[2022.06.02-14.54.00:774][523]PIE: Play in editor total start time 0.08 seconds.
+[2022.06.02-14.54.00:786][523]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.06.02-14.54.00:831][523]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.06.02-14.54.00:837][523]LogHMD: Error: Failed to create all visibility mask meshes for device/views. Abandoning visibility mask.
+[2022.06.02-14.54.00:841][523]LogRenderer: Warning: Resizing VR buffer to 5056 by 2564
+[2022.06.02-14.54.00:928][524]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.02-14.54.41:431][407]LogDerivedDataCache: C:/Users/Aimul/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.386 and deleted 0 file(s) with total size 0 MiB.
+[2022.06.02-14.55.16:637][929]LogBlueprintUserMessages: [VR_widget_Test1_C_0] Button Pressed
+[2022.06.02-14.55.21:540][278]LogBlueprintUserMessages: [VR_widget_Test1_C_0] Button Pressed
+[2022.06.02-14.55.22:166][323]LogBlueprintUserMessages: [VR_widget_Test1_C_0] Button Pressed
+[2022.06.02-14.55.26:092][605]LogBlueprintUserMessages: [VR_widget_Test1_C_0] Button Pressed
+[2022.06.02-14.55.28:270][761]LogBlueprintUserMessages: [VR_widget_Test1_C_0] Button Pressed
+[2022.06.02-14.55.59:186][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.02-14.55.59:186][978]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Testing_Map
+[2022.06.02-14.55.59:225][978]LogSlate: Window 'ThermoFisherVRSim Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR SteamVR/OpenXR (0.1.0)' being destroyed
+[2022.06.02-14.55.59:227][978]LogWorld: UWorld::CleanupWorld for Testing_Map, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.55.59:227][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.55.59:237][978]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.02-14.55.59:238][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.55.59:243][978]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.02-14.55.59:243][978]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.06.02-14.55.59:243][978]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.06.02-14.55.59:245][978]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.06.02-14.55.59:249][978]LogSlate: Slate User Unregistered.  User Index 8
+[2022.06.02-14.55.59:249][978]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.06.02-14.55.59:250][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.06.02-14.55.59:252][978]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Editor.ini', retrying in .5s...
+[2022.06.02-14.55.59:753][978]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Editor.ini'.
+[2022.06.02-14.55.59:754][978]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2022.06.02-14.56.00:254][978]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini'.
+[2022.06.02-14.56.00:254][978]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Compat.ini', retrying in .5s...
+[2022.06.02-14.56.00:756][978]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Compat.ini'.
+[2022.06.02-14.56.00:756][978]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Lightmass.ini', retrying in .5s...
+[2022.06.02-14.56.01:257][978]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Lightmass.ini'.
+[2022.06.02-14.56.01:257][978]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Paper2D.ini', retrying in .5s...
+[2022.06.02-14.56.01:758][978]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Paper2D.ini'.
+[2022.06.02-14.56.01:758][978]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/ControlRig.ini', retrying in .5s...
+[2022.06.02-14.56.02:260][978]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/ControlRig.ini'.
+[2022.06.02-14.56.02:260][978]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Niagara.ini', retrying in .5s...
+[2022.06.02-14.56.02:761][978]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Niagara.ini'.
+[2022.06.02-14.56.02:761][978]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/EditorScriptingUtilities.ini', retrying in .5s...
+[2022.06.02-14.56.03:262][978]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/EditorScriptingUtilities.ini'.
+[2022.06.02-14.56.03:262][978]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/FullBodyIK.ini', retrying in .5s...
+[2022.06.02-14.56.03:763][978]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/FullBodyIK.ini'.
+[2022.06.02-14.56.03:763][978]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/TraceDataFilters.ini', retrying in .5s...
+[2022.06.02-14.56.04:264][978]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/TraceDataFilters.ini'.
+[2022.06.02-14.56.04:264][978]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/VariantManagerContent.ini', retrying in .5s...
+[2022.06.02-14.56.04:765][978]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/VariantManagerContent.ini'.
+[2022.06.02-14.56.04:765][978]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Synthesis.ini', retrying in .5s...
+[2022.06.02-14.56.05:266][978]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Synthesis.ini'.
+[2022.06.02-14.56.05:266][978]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/HairStrands.ini', retrying in .5s...
+[2022.06.02-14.56.05:767][978]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/HairStrands.ini'.
+[2022.06.02-14.56.05:767][978]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/OculusVR.ini', retrying in .5s...
+[2022.06.02-14.56.06:268][978]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/OculusVR.ini'.
+[2022.06.02-14.56.06:269][978]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Engine.ini', retrying in .5s...
+[2022.06.02-14.56.06:770][978]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Engine.ini'.
+[2022.06.02-14.56.06:770][978]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Game.ini', retrying in .5s...
+[2022.06.02-14.56.07:271][978]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Game.ini'.
+[2022.06.02-14.56.07:271][978]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Input.ini', retrying in .5s...
+[2022.06.02-14.56.07:772][978]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Input.ini'.
+[2022.06.02-14.56.07:772][978]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/DeviceProfiles.ini', retrying in .5s...
+[2022.06.02-14.56.08:273][978]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/DeviceProfiles.ini'.
+[2022.06.02-14.56.08:273][978]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/GameUserSettings.ini', retrying in .5s...
+[2022.06.02-14.56.08:774][978]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/GameUserSettings.ini'.
+[2022.06.02-14.56.08:774][978]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Scalability.ini', retrying in .5s...
+[2022.06.02-14.56.09:275][978]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Scalability.ini'.
+[2022.06.02-14.56.09:275][978]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/RuntimeOptions.ini', retrying in .5s...
+[2022.06.02-14.56.09:777][978]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/RuntimeOptions.ini'.
+[2022.06.02-14.56.09:777][978]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Hardware.ini', retrying in .5s...
+[2022.06.02-14.56.10:278][978]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/Hardware.ini'.
+[2022.06.02-14.56.10:291][979]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.06.02-14.56.11:944][ 79]LogSlate: Took 0.013218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.02-14.56.12:058][ 79]LogSlate: Took 0.009192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.02-14.56.19:506][808]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.06.02-14.56.19:534][808]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.02-14.56.19:783][808]LogFileManager: Warning: DeleteFile was unable to delete 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2022.06.02-14.56.20:284][808]LogFileManager: Error: Error deleting file 'E:/thermo/copy/ThermoCopy/WorkSpace/ThermoFisherVRSim/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini'.
